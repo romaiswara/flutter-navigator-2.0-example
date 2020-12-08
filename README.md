@@ -1,4 +1,4 @@
-# flutter_navigator_20_with_bloc
+# Flutter Navigator 2.0 Example
 
 A new Flutter application.
 
